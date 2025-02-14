@@ -10,6 +10,7 @@ setup(
             "dir2llm=dir2llm.cli:main",
         ],
     },
+    scripts=["dir2llm/cli.py"],
     author="Chandan H",
     author_email="chandanh.mailbox@gmail.com",
     description="A CLI tool to display directory structure and file contents",
