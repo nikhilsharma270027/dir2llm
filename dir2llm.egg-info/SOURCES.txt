@@ -1,0 +1,9 @@
+README.md
+setup.py
+dir2llm/__init__.py
+dir2llm/cli.py
+dir2llm.egg-info/PKG-INFO
+dir2llm.egg-info/SOURCES.txt
+dir2llm.egg-info/dependency_links.txt
+dir2llm.egg-info/entry_points.txt
+dir2llm.egg-info/top_level.txt

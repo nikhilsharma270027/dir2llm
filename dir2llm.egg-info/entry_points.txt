@@ -1,0 +1,2 @@
+[console_scripts]
+dir2llm = dir2llm.cli:main

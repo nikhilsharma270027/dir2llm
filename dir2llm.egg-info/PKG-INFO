@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: dir2llm
+Version: 0.1
+Summary: A CLI tool to display directory structure and file contents
+Home-page: https://github.com/mr-chandan/dir2llm
+Author: Chandan H
+Author-email: chandanh.mailbox@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Environment :: Console
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
